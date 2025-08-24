@@ -72,8 +72,8 @@ Amaflip is a full-featured e-commerce mobile application that provides a seamles
 
 
 #### Main App Screens
-| Home Screen | Product Details | Shopping Cart | Profile Page |
-|:---:|:---:|:---:|:---:|
+<p align="center"> | Home Screen | Product Details | Shopping Cart | Profile Page |<p>
+<p align="center">|:---:|:---:|:---:|:---:|<p>
 <p align="center"> <img src="https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a3.jpeg" width="150" alt="Home Screen">
   &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a11.png" width="150" alt="Product Details">

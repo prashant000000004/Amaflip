@@ -85,9 +85,9 @@ Amaflip is a full-featured e-commerce mobile application that provides a seamles
 #### Payment
 <p align="center">| Payment Screen | Payment Successfull|<p>
 
-<p align="center"> <img src="https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a10.jpeg" width="150" alt="Payment Screen">
+<p align="center"> <img src="https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a10.png" width="150" alt="Payment Screen">
   &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a9.jpeg" width="150" alt="Payment Successfull"><p>
+<img src="https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a9.png" width="150" alt="Payment Successfull"><p>
 
 
 ### Admin Panel

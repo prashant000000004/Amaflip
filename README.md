@@ -66,7 +66,7 @@ Amaflip is a full-featured e-commerce mobile application that provides a seamles
 ### User App
 #### Authentication Screens
 <p align="center"> | Signup Screen | <p>
-|:---:|
+  
 <p align="center"> <img src="https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a1.jpeg" width="150" alt="Home Screen"></p>
 
 
@@ -87,14 +87,14 @@ Amaflip is a full-featured e-commerce mobile application that provides a seamles
 
 <p align="center"> <img src="https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a10.jpeg" width="150" alt="Payment Screen">
   &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a9.png" width="150" alt="Payment Successfull"><p>
+<img src="https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a9.jpeg" width="150" alt="Payment Successfull"><p>
 
 
 ### Admin Panel
 <p align="center">| Admin Dashboard | Order Managment|<p>
 <p align="center"> <img src="https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a7.jpeg" width="150" alt="Admin Dashboard">
   &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a8.png" width="150" alt="Order Managment"><p>
+<img src="https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a8.jpeg" width="150" alt="Order Managment"><p>
 
 
 

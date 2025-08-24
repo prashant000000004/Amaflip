@@ -65,14 +65,22 @@ Amaflip is a full-featured e-commerce mobile application that provides a seamles
 
 ### User App
 #### Authentication Screens
-![Login Screen](https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a1.jpeg)![Signup Screen](path/to/screenshots/signup-screen.png)
+
+<div align="center">
+  <img src="(https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a1.jpeg)" alt="Signup Screen" width="250"/>
+</div>
+
+
 
 #### Main App Screens
-![Home Screen](https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a3.jpeg)![Product Details](https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a11.png)![Shopping Cart](https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a5.jpeg)![Profile Page](https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a6.jpeg)
+![Home Screen](https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a3.jpeg)
+![Product Details](https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a11.png)
+![Shopping Cart](https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a5.jpeg)
+![Profile Page](https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a6.jpeg)
 
 #### Payment
 ![Payment Screen](https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a10.png)
-(https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a9.png)
+![Payment Sucessfull](https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a9.png)
 
 
 
@@ -80,7 +88,6 @@ Amaflip is a full-featured e-commerce mobile application that provides a seamles
 ![Admin Dashboard](https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a7.jpeg)
 ![Order Management](https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a8.jpeg)
 
-*Add your actual screenshots in the `screenshots/` directory and update the paths above*
 
 ## 🛠️ Technologies Used
 

@@ -65,15 +65,14 @@ Amaflip is a full-featured e-commerce mobile application that provides a seamles
 
 ### User App
 #### Authentication Screens
-| Signup Screen | 
+<p align="center"> | Signup Screen | <p>
 |:---:|
-<p align="center">![Signup Screen](https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a1.jpeg)</p>
+<p align="center"> <img src="https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a1.jpeg" width="150" alt="Home Screen"></p>
 
 
 
 #### Main App Screens
 <p align="center"> | Home Screen | Product Details | Shopping Cart | Profile Page |<p>
-<p align="center">|:---:|:---:|:---:|:---:|<p>
 <p align="center"> <img src="https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a3.jpeg" width="150" alt="Home Screen">
   &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a11.png" width="150" alt="Product Details">
@@ -84,18 +83,19 @@ Amaflip is a full-featured e-commerce mobile application that provides a seamles
 
 
 #### Payment
-| Payment Screen | Payment Successfull|
-|:---:|:---:|
-![Payment Screen](https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a10.png)
-![Payment Successfull](https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a9.png)
+<p align="center">| Payment Screen | Payment Successfull|<p>
 
+<p align="center"> <img src="https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a10.jpeg" width="150" alt="Payment Screen">
+  &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a9.png" width="150" alt="Payment Successfull"><p>
 
 
 ### Admin Panel
-| Admin Dashboard | Order Managment|
-|:---:|:---:|
-| ![Admin Dashboard](https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a7.jpeg) |
-![Order Management](https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a8.jpeg) |
+<p align="center">| Admin Dashboard | Order Managment|<p>
+<p align="center"> <img src="https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a7.jpeg" width="150" alt="Admin Dashboard">
+  &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/prashant000000004/Amaflip/blob/76bfe93b9ffea3ac9cc280e43cd260a09589f9b7/a8.png" width="150" alt="Order Managment"><p>
+
 
 
 ## 🛠️ Technologies Used
